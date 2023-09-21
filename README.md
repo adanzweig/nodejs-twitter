@@ -1,6 +1,5 @@
 Certainly! Here's a basic README for your package that includes just the code file you provided:
 
-```markdown
 # Twitter OAuth Tweet Sender
 
 This Node.js package provides a simple command-line tool for sending tweets to Twitter using OAuth 1.0a authentication. It uses the `oauth-1.0a` library for OAuth authorization and the `crypto` library for cryptographic functions.
