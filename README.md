@@ -30,7 +30,7 @@ To use this tool, follow these steps:
 1. Run the application:
 
    ```shell
-   node tweet_sender.js
+   node index.js
    ```
 
 2. The application will guide you through the OAuth authentication process, including authorizing the application and entering a PIN provided by Twitter.
